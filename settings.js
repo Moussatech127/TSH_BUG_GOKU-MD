@@ -9,8 +9,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "221771084463"
+global.ownername = "🌹༒𝔒𝔟𝔦𝔱𝔬𖧷⃝⃝🌟𝔫𝔢𝔵𝔱𝔞𝔤𝔢༒🌹"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
